@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi visitor, I'm Sokol"
+title: "Sokol's Blog"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,16 +9,9 @@ redirect_from:
 ---
 
 
-
-
-
-A short intro 😉
 ======
 
-
-Welcome to my blog. 
-
-Hi,
+## Hi,
 
 I'm Sokol, a tech lover since first day I met my [i386 Pentium](https://en.wikipedia.org/wiki/I386) in 1998 as a 11 years old boy receiving it as a gift from my dad.
 Back on these old days I found love with tech, MS-DOS was my playaround OS lol. I still remember the floppy disks with the game of Prince of Persia playing for hours.
